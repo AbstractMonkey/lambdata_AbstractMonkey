@@ -8,6 +8,7 @@ twine = "*"
 v = {editable = true,version = "*"}
 
 [packages]
+numpy = "*"
 pandas = "*"
 
 [requires]

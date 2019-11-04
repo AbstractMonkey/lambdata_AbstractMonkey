@@ -14,7 +14,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="lambdata_AbstractMonkey",
-    version="0.0.1",
+    version="0.0.2",
     author="Sean Hobin",
     description="A collection of Data Science helper functions",
     long_description="Useful functions for data science",
